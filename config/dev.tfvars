@@ -13,5 +13,5 @@ tags = {
   deployed_by = "terraform"
   environment = "dev"
   owner       = "Perry Gabriel"
-    project = "CICD-demo"
+  project     = "CICD-demo"
 }
